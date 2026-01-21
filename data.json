@@ -1,0 +1,13 @@
+{
+  "series": {
+    "series1": {
+      "name": "Series 1",
+      "single_issues": {
+        "1998": {
+          "1": "https://archive.org/embed/example-issue-1",
+          "2": "https://archive.org/embed/example-issue-2"
+        }
+      }
+    }
+  }
+}
